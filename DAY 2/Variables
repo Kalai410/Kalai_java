@@ -1,0 +1,11 @@
+import java.util.Scanner;
+class Variables
+{
+public static void main(String args[])
+{
+ String a="Kalai";
+System.out.println(a);
+int b=5;
+System.out.println(b);
+}
+}
